@@ -1,0 +1,6 @@
+{
+  "name": "AIpedia",
+  "description": "Learn AI, LLMs, RAG, Agents, MCP, Fine-Tuning and Modern AI Concepts in Simple English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
